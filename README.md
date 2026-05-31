@@ -49,6 +49,10 @@ https://sqlbolt.com/
 
 https://www.kaggle.com/learn/intro-to-sql
 
+## Visualização das Fontes no NotebookLM
+
+Abaixo estão as fontes utilizadas durante o estudo dentro do NotebookLM:
+
 ![Fontes utilizadas no NotebookLM](./assets/notebooklm-fontes.png)
 
 ---
@@ -94,10 +98,11 @@ Resuma os comandos SQL mais utilizados em Business Intelligence.
 ```text
 Monte um glossário com os principais conceitos de SQL usados em BI.
 ```
+## Exemplo de Prompt Aplicado
+
+Durante o processo foram testadas diferentes estratégias de prompts para aprofundar o conteúdo.
 
 ![Prompt utilizado no NotebookLM](./assets/notebooklm-prompt.png)
-
-![Resposta gerada pelo NotebookLM](./assets/notebooklm-resposta.png)
 
 ---
 
@@ -252,6 +257,11 @@ Quais perguntas técnicas podem ser feitas sobre esse tema em entrevistas?
 ```
 
 ---
+## Exemplo de Resposta Gerada
+
+Abaixo está um exemplo de resposta produzida pelo NotebookLM com base nas fontes e prompts utilizados:
+
+![Resposta gerada pelo NotebookLM](./assets/notebooklm-resposta.png)
 
 # Conclusão
 
