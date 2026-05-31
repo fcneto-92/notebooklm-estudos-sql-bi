@@ -49,6 +49,8 @@ https://sqlbolt.com/
 
 https://www.kaggle.com/learn/intro-to-sql
 
+![Fontes utilizadas no NotebookLM](./assets/notebooklm-fontes.png)
+
 ---
 
 # Engenharia de Prompts
@@ -92,6 +94,10 @@ Resuma os comandos SQL mais utilizados em Business Intelligence.
 ```text
 Monte um glossário com os principais conceitos de SQL usados em BI.
 ```
+
+![Prompt utilizado no NotebookLM](./assets/notebooklm-prompt.png)
+
+![Resposta gerada pelo NotebookLM](./assets/notebooklm-resposta.png)
 
 ---
 
